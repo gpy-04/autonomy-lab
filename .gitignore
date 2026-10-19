@@ -1,0 +1,6 @@
+autonomy-lab-v*.zip
+preview-*.png
+preview-*.jpg
+index.pre-v4.html
+node_modules/
+.DS_Store
